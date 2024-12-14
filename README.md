@@ -8,7 +8,10 @@ This project focuses on developing a machine learning model to predict music gen
 - **Total Teams**: 36
 - **Total Participants**: 70
 - **Participation Type**: Individual
+- **Total Entrants**: 124
 - **Achievement**: Secured a position in the top 40% as a solo participant
+
+![Leaderboard Image](images/Competition_Leaderboard.png)
 
 ## Dataset Description
 
